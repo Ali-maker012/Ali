@@ -18,5 +18,4 @@ def response(user_input):
     # Basic responses based on user input
     if "hello" in user_input or "hi" in user_input:
         return "Hello! How can I help you today?"
-    elif "help" in user_input:
-
+    
